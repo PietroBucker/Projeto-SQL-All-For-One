@@ -1,0 +1,1 @@
+SELECT * FROM products limit 10 OFFSET 3;
